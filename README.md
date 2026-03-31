@@ -23,4 +23,4 @@ Controls a nano-positioning stage (Attocube ANC300) and synchronizes movement wi
 
 ## 📌 Context
 
-Used for automated surface measurements in an optical system, combining hardware control and data acquisition. :contentReference[oaicite:0]{index=0}
+Used for automated surface measurements in an optical system, combining hardware control and data acquisition. 
